@@ -75,7 +75,7 @@ body{
 .boxed-button {
     outline: none;
     border: none;
-    background: rgb(185, 148, 52);
+    background:  #615C46;
     color: #fff;
     padding: 9px 16px;
     font-size: 20px;
@@ -87,7 +87,7 @@ body{
     color: #fff;
     padding: 8px 16px;
     font-size: 20px;
-    border:1px solid rgb(185, 148, 52);
+    border:1px solid  #615C46;
 }
 .boxes {
 }
@@ -100,7 +100,7 @@ body{
     content: "";
     width: 300px;
     height: 300px;
-    background-color: rgb(185, 148, 52);
+    background-color:  #615C46;
     margin-top: 50px  ;
 }
 .box-2 {
@@ -125,7 +125,7 @@ body{
     height: 900px;
 }
 .pink-highlight {
-    color: rgb(185, 148, 52);
+    color:  #615C46;
 }
 .service-boxes {
     margin-top: 100px;
@@ -276,7 +276,7 @@ body{
 .pink-button {
     margin-top: 40px;
     width: 100%;
-    background-color: rgb(185, 148, 52);
+    background-color:  #615C46;
     padding: 14px;
     color: #fff;
     font-size: 20px;
@@ -299,7 +299,7 @@ footer {
     width: 30px;
     height: 30px;
     border-radius: 50%;
-    background-color: rgb(185, 148, 52);
+    background-color:  #615C46;
     line-height: 30px;
     text-align: center;
     margin: 50px 20px 0px 0px;
@@ -314,7 +314,7 @@ footer {
 }
 .submit-button {
     width: 100%;
-    background-color: rgb(185, 148, 52);
+    background-color:  #615C46;
     padding: 5px 0px;
     color: #fff;
     font-size: 18px;
